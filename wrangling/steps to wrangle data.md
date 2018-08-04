@@ -13,9 +13,11 @@ Or if you'd prefer to install it manually, you can download it from python-pdfta
 ## Step 2
 Create a new Python script then add the following code:
 <br>
+### Code
 import pdftables_api     // Importing the required library <br>
 c = pdftables_api.Client('my-api-key') <br>
-c.xlsx('input.pdf', 'output')  <strong>//replace c.xlsx with c.csv to convert to CSV</strong>
+c.xlsx('input.pdf', 'output')  <br>
+<strong>//replace c.xlsx with c.csv to convert to CSV</strong>
 
 ### Now, you'll need to make the following changes to the script:
 - Replace my-api-key with your PDFTables API key from <strong> https://pdftables.com/ </strong> or <strong> https://github.com/pdftables </strong> .<br>
@@ -24,7 +26,7 @@ c.xlsx('input.pdf', 'output')  <strong>//replace c.xlsx with c.csv to convert to
 - Now, save your finished script as convert-pdf.py in the same directory as the PDF document you want to convert.
 
 ## Step 3
-Open your command line/terminal and change your directory (e.g. cd C:/Users/pranjal) to the folder you saved your convert-pdf.py script and PDF in, then run the following command:
+Open your command line/terminal and change your directory (e.g.<strong> cd C:/Users/pranjal</strong>) to the folder you saved your convert-pdf.py script and PDF in, then run the following command:
 <br> 
 <strong>python convert-pdf.py</strong>
 <br>
