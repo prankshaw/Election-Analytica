@@ -5,4 +5,5 @@ The analysis so presented has been done with data from trusted sources and has b
 ## Find the files.
 The files containg actual analysis are presented in data analysis folder. Data wrangling folder conatins code and demo for rangling the data. Data collection contains resources and link and various files used in analysis.
 
+# My Concern
 The following analysis so presented is correct and true as much as possible within my concern and I as owner do not take any responsibilty of any sort, be it the data, the sources or analysis so presented if it might look and prove wrong and harmful to some people or organizations.
