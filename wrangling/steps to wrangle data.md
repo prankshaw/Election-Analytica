@@ -4,30 +4,28 @@
 
 ## Step 1
 In your terminal/command line, install the PDFTables Python library with:
--->
+<br>
 <strong> pip install git+https://github.com/pdftables/python-pdftables-api.git </strong>
 Or if you'd prefer to install it manually, you can download it from python-pdftables-api then install it with:
--->
+<br>
 <strong>python setup.py install </strong>
 
 ## Step 2
 Create a new Python script then add the following code:
---> 
-import pdftables_api     // Importing the required library
-c = pdftables_api.Client('my-api-key')
-c.xlsx('input.pdf', 'output') 
-
-<strong>replace c.xlsx with c.csv to convert to CSV<strong>
+<br>
+import pdftables_api     // Importing the required library <br>
+c = pdftables_api.Client('my-api-key') <br>
+c.xlsx('input.pdf', 'output')  <strong>//replace c.xlsx with c.csv to convert to CSV<strong>
 
 ### Now, you'll need to make the following changes to the script:
-- Replace my-api-key with your PDFTables API key from <strong> https://pdftables.com/ </strong> or <strong> https://github.com/pdftables </strong> .
-- Replace input.pdf with the PDF you would like to convert.
-- Replace output with the name you'd like to give the converted document.
+- Replace my-api-key with your PDFTables API key from <strong> https://pdftables.com/ </strong> or <strong> https://github.com/pdftables </strong> .<br>
+- Replace input.pdf with the PDF you would like to convert. <br>
+- Replace output with the name you'd like to give the converted document. <br>
 - Now, save your finished script as convert-pdf.py in the same directory as the PDF document you want to convert.
 
 ## Step 3
 Open your command line/terminal and change your directory (e.g. cd C:/Users/pranjal) to the folder you saved your convert-pdf.py script and PDF in, then run the following command:
--->  
-python convert-pdf.py
-
+<br> 
+<strong>python convert-pdf.py</strong>
+<br>
 To find your converted spreadsheet, navigate to the folder in your file explorer and hey presto, you've converted a PDF to Excel or CSV with Python!
