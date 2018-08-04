@@ -5,7 +5,7 @@
 ## Step 1
 In your terminal/command line, install the PDFTables Python library with:
 <br>
-<strong> pip install git+https://github.com/pdftables/python-pdftables-api.git </strong>
+<strong> pip install git+https://github.com/pdftables/python-pdftables-api.git </strong> <br>
 Or if you'd prefer to install it manually, you can download it from python-pdftables-api then install it with:
 <br>
 <strong>python setup.py install </strong>
@@ -15,7 +15,7 @@ Create a new Python script then add the following code:
 <br>
 import pdftables_api     // Importing the required library <br>
 c = pdftables_api.Client('my-api-key') <br>
-c.xlsx('input.pdf', 'output')  <strong>//replace c.xlsx with c.csv to convert to CSV<strong>
+c.xlsx('input.pdf', 'output')  <strong>//replace c.xlsx with c.csv to convert to CSV</strong>
 
 ### Now, you'll need to make the following changes to the script:
 - Replace my-api-key with your PDFTables API key from <strong> https://pdftables.com/ </strong> or <strong> https://github.com/pdftables </strong> .<br>
