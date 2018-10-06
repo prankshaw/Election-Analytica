@@ -1,0 +1,56 @@
+1) What are the fixed and floating votes for parties?
+
+
+Ans- FIXED VOTES - 
+It can be considered as the votes which have been constant throughout the elections for a particular party or candidate.It means whatever the situation arises, there is some permanent part of the population voting for a particular choice.
+ 
+FLOATING VOTES - 
+It can be considered as the votes which can be attracted to vote for oneself or anyone. That is, a certain part of the population is available to vote for anyone which he/she considers as useful to himself/herself. This part of population doesn't have a favorite party or candidate, and hence this group is very useful to attract votes for elections and can be targeted for gathering votes by impressing them.
+
+
+METHOD TO FIND FIXED GROUPS-
+(a) Visualizing a single booth data for a particular party over the years.
+
+(b) Observing a particular lowest mark in each graph. That lowest mark tells us the fixed votes mark for the party in that particular booth.
+
+(c) Repeating above 2 steps for each booth in a constituency.
+
+(d) Collecting the fixed votes of the party for every booth will tell us the fixed votes for that party in a particular constituency.
+
+(e) Set error of upto 5% to that fixed number can be considered as the fixed vote for that party in that constituency..
+
+METHOD TO FIND FLOATING GROUPS-
+(a) Observing the number of independent candidates in a constituency can tell us about the floating group
+    
+  (i) If in a constituency there are more independent candidates than party candidates then we can consider that region as a floating vote region.
+    
+  (ii) If in a constituency there are less of the independent candidates, then by observing the winning candidates winning margin votes can be useful.
+If the margin is        not that big and every time or so the winning party is different over the years then we can consider that region as a floating group.
+
+(b) Visualization of the data can also be used for the same to examine the floating area.
+
+2) Compare Loksabha and vidhansabha result for respective assembly section.
+
+Ans- In my constituency, Kurukshetra, Dalit voters are 3.10 lakh, Jat 2.46 lakh, Punjabi 2.40 and Brahmin 1.24. It can be seen that the constituency is mostly domiated by dalit and jat voters and after analysing results, it can be seen that 2014 election of loksabha and Vidhansabha we see that in LOKSABHA as well as VIDHANSABHA national parties do have some value, but INLD has trong core of voters and takes a big chunk of votes in both elections. They may or may not be treated differently.
+
+3) Influencer of several areas, 
+Influencer might be caste based or depends on person itself.
+
+
+
+Ans- Influencer is a person who have a strong grasp in his region or community and can mold people or make people to follow him. This kind of 
+a candidate can be a useful person for elections to attract votes from a community or region.
+e.g. In Haryana votes generally are casted according to or on the basis of caste.
+Also literacy rate is high in Kurukshetra. INLD has a strong core in Kurukshetra. Naveen Jindal, being an established buisinessman, has a strong core their and is a influencer. Also INLD, irrespective of candidates has strong vote percentage.
+      
+
+4) Ways to how can we ( AAP ) get vote from that areas.
+
+
+
+Ans- a) Kurukshetra has strong influence from existing parties, and it will be difficult to establish a core of voters.
+(b) If we see the detailed data of number of independent candidates and their respective votes, we see INLD is collecting higher votes than other
+independent candidates. AAP can get involved with them and understand their people's mindsets, ways and methods, to get significant number of votes.
+
+
+(c) Since Haryana has strong influence from cast based politics, this should no be ignored.
