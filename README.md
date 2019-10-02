@@ -1,4 +1,5 @@
 # Election-Analytica
+https://prankshaw.github.io/Election-Analytica/ </br>
 Analysis of Vidhan Sabha Elections of Haryana, Kaithal District.
 The analysis so presented has been done with data from trusted sources and has been done with concern so as to minimize errors. But if you find any errors, please raise an issue.If you Loved it, then star the repositiory. Want to extend this project, fork it and also contact me by raising an issue informing how you want to enhance it, so that we can enhance and develop this project together.
 
