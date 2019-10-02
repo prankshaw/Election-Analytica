@@ -1,7 +1,3 @@
-# Visit the project on 
-### https://github.com/prankshaw/Election-Analytica
-==========================================================================================================================================
-
 ## Abstract
 The project ‘Election Analytica’ is about analyzing previous Vidhan Sabha election results for particular constituencies for the state of Haryana, India. 
 <br>The analysis includes judging various parameters such as literacy rate, rural population percentage, employability rate etc with voting pattern for top paties/independent candidates for each constituency in each respective election and to compare them over parameters such as time period, election outcomes to conclude final results.
